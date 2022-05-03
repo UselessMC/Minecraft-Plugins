@@ -1,0 +1,8 @@
+name: EnderPickUpHands
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.EnderPickUpHands.Main
+api-version: 1.17
+commands:
+  addenderhands:
+    usage: /<command>

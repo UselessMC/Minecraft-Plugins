@@ -1,0 +1,8 @@
+name: InvisOnCrouch
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.InvisOnCrouch.Main
+api-version: 1.16
+commands:
+  invisoncrouch:
+    aliases: [ioc]

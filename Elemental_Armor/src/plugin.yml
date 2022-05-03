@@ -1,0 +1,8 @@
+name: ElementalArmor
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.ElementalArmor.Main
+api-version: 1.16
+commands:
+  activateea:
+    aliases: [aea]

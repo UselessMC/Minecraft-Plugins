@@ -1,0 +1,8 @@
+name: LevitationOnCrouch
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.LevitationOnCrouch.Main
+api-version: 1.16
+commands:
+  levitationoncrouch:
+    aliases: [loc]

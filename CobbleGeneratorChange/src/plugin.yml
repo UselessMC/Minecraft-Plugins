@@ -1,0 +1,5 @@
+name: CobbleGeneratorChange
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.CobbleGenChange.Main
+api-version: 1.17
