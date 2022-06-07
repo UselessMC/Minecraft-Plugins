@@ -1,0 +1,10 @@
+name: MagicItems
+version: 1.0.0
+author: UselessMC
+main: me.UselessMC.magicItems.Main
+api-version: 1.18
+commands:
+  giveteleporter:
+  wish:
+  givelamp:
+  wishenchant:
